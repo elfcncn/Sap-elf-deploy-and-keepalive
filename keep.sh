@@ -2,7 +2,7 @@
 
 # 环境变量配置
 EMAIL="cnelfcn@gmail.com"   # 登录邮箱
-PASSWORD="e1035963"     # 登录密码
+PASSWORD="#e1035963"     # 登录密码
 
 # 要保活的URL列表,多个用英文空格分隔
 URLS="https://sgckmwhv.cfapps.ap21.hana.ondemand.com https://usypxkng.cfapps.us10-001.hana.ondemand.com"  
